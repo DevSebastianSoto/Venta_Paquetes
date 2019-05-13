@@ -30,6 +30,11 @@ A cada referencia se le registra
     -nombre
     -telefono
     -parentesco
+      -cu;ado
+      -hij@
+      -suegra
+      -yerno
+      -amistad
     -correo
 Registrar paquete
 A cada registro de paquete se le debe ingresar la siguiente informacion
@@ -40,4 +45,19 @@ A cada registro de paquete se le debe ingresar la siguiente informacion
       -black
     -HD
     -Digital (debe ser un numero del 1 al 4)
+    -Tipo de bandera
+      -Residencial
+      -Comercial
+      -Bar/restaurante
     -Total cantidad (es lo mismo que digital, cual es la diferencia?)
+Registrar la informacion de la instalacion
+  -comentario de instalacion
+  -venta promociones
+    -Promocion A:Referido (Nombre del referido)
+    -Promocion B:1er Mes paga $15
+    -Promocion C:2do mes gratis
+    -Venta sin promocion
+  -Procedimiento con la venta
+    -Ingresar venta al sistema
+    -Pre-venta guardar la venta
+Ingresar la foto de la cedula
