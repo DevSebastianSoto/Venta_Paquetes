@@ -1,0 +1,43 @@
+Documento de requrimientos 'Sistema de Ventas'
+
+Inicio de sesion con google
+Inicio de sesion por correo
+	Validar correo
+	Validar contraseña
+Realizar venta con la siguiente informacion"
+	nombre suscriptor
+	tipo de identificacion (Son importantes las diferencias? que diferencias tienen?)
+		-cedula
+		-pasaporte
+		-licencia
+		-pasaporte temporal
+		-razon social
+		-dimex
+
+	numero de identificacion
+	correo electronico
+	extencion (que formato tiene la extencion? Debo generarlo yo?)
+	telefonos (del 1 al 3, cuantos son opcionales? deben llenarse todos?)
+	provincia
+	canton
+	distrito
+	codigo postal
+	direccion exacta
+Procesar venta
+Cancelar venta
+Registrar 2 referencias del cliente
+A cada referencia se le registra
+    -nombre
+    -telefono
+    -parentesco
+    -correo
+Registrar paquete
+A cada registro de paquete se le debe ingresar la siguiente informacion
+    -Tipo de paquete
+      -familiar
+      -gold
+      -platinum
+      -black
+    -HD
+    -Digital (debe ser un numero del 1 al 4)
+    -Total cantidad (es lo mismo que digital, cual es la diferencia?)
